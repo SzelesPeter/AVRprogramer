@@ -598,5 +598,4 @@ for i, (text, value) in enumerate(values.items()):
 
 
 #=============================== MAIN LOOP =============================================================================
-print("a")
 window.mainloop()
